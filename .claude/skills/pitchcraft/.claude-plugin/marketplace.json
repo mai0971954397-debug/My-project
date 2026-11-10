@@ -1,0 +1,20 @@
+{
+  "name": "pitchcraft",
+  "owner": {
+    "name": "jiujiangliu",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Structured persuasion for tech leads, PMs, founders—kickoff, status, wrap-up, pitch, solution selling on a 5-part framework",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pitchcraft",
+      "source": "./",
+      "description": "Structured persuasion for tech leads, PMs, founders—five scenarios on Hook→Context→Proposal→Evidence→Ask with AI intake and checklist",
+      "category": "workflow",
+      "tags": ["claude-skills", "agent-skills", "pitch", "persuasion", "presentation", "communication", "executive-briefing", "status-update"]
+    }
+  ]
+}
