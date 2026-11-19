@@ -41,3 +41,7 @@ Build rules: every frame from the time alone, window.seek(seconds), wait for see
 ## Step 4: Export and post
 
 Export 1080 x 1350 for LinkedIn and 1080 x 1920 for Stories and Reels. Put the edition link in the first line of the caption, not only the comments.
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

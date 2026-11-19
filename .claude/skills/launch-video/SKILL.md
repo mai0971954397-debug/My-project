@@ -72,3 +72,7 @@ After the build: capture one frame from the middle of every beat. Check for cut-
 ## Step 5: Export
 
 HyperFrames (free, open source): `npx skills add heygen-com/hyperframes`, then `npx hyperframes render`. Export a 16:9 and a 4:5 cut. Check which tools exist before installing, and ask first.
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

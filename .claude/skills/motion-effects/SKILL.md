@@ -87,3 +87,7 @@ HyperFrames (`npx skills add heygen-com/hyperframes`) does this in one step if i
 ## Hand off
 
 Give the user `effect.html`, the MP4 and the GIF, with the three checked frames. Then offer the next step in one line: another effect from the same group, or `reel-export` to turn it into a vertical Reel with safe-zone text.
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

@@ -48,3 +48,7 @@ Pass means: video `h264`, `1080` x `1920`, `yuv420p`, `color_range=tv`, `bt709`,
 - **A logo over footage vanishes on light frames.** Put each logo (and its label) on its own dark rounded tile.
 - **faststart matters.** Without `-movflags +faststart` the file cannot start playing until it has fully loaded.
 - **Keep the hook to two lines.** Mine were short enough to read in a second: "This Mac launch" / "is 100% code".
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

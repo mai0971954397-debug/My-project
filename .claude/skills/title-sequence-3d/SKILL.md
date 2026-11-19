@@ -51,3 +51,7 @@ After the build: capture frames at 1s, the middle and the last second. Check tha
 ## Step 4: Export
 
 HyperFrames (free, open source): `npx skills add heygen-com/hyperframes`, then `npx hyperframes render`. For email or newsletters, also make a 9-second GIF under 5MB (8fps, 540px wide, light denoise so the rain compresses).
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

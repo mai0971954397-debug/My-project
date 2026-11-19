@@ -52,3 +52,7 @@ After the build: capture frames at 0, 2, 4.5, 6.5, 7.5, 9.5, 11 and 12s. Check t
 ## Step 3: Export
 
 HyperFrames (free, open source): `npx skills add heygen-com/hyperframes`, then `npx hyperframes render`. 1080 x 1350 for the LinkedIn feed. For a Reel, hand the MP4 to `reel-export`. Put the source of the number in the caption.
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.

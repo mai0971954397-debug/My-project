@@ -85,3 +85,7 @@ Easiest route: HyperFrames, free and open source from HeyGen (`npx skills add he
 - Invent a fact, a date or a quote.
 - Recreate a real brand's logo from memory. Use the user's files or plain type set in the brand's name.
 - Claim a trend is caused by one thing. Say "one reason", not "the reason".
+
+## Sound effects library
+
+Ready-made original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks) live in `../video-shotcraft/assets/audio/sfx/`. Read `../video-shotcraft/assets/audio/sfx/README.md` first: it gives each sound's name, hit point and when to use it. Place the hit point on the picture event, 1-3 hero hits per clip, no music unless the user asks.
