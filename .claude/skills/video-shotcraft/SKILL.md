@@ -253,6 +253,7 @@ node workbench/scripts/open.mjs <成片工程目录>   # 链接工程 → 起 de
   渲染只读工程内固定文件。共享本地 SFX 库已移除；模板历史音频只用于原样运行，
   新产品即使采用模板也从 Freesound 选音，保留动作语义并重新对齐。
 - `assets/audio/bgm/` 保留 5 首 BGM 备选，授权见 `assets/audio/ATTRIBUTION.md`；
+- `assets/audio/sfx/` 6 original SFX (charge-data-ui, charge-clicks, camera-flash, popup-flash, data-clicks-ui, mechanical-clicks); names, hit points and when to use each are in `assets/audio/sfx/README.md` — read it before placing them.
   SFX 选材规则不替代 BGM 选曲。用户明确指定的音乐或音效始终优先。
 - `demos/` 各卡实现源码：自包含的成片级 demo（共享件在 `demos/_fixtures/`：`Look.tsx` 视觉系统、
   `Polish.tsx` 质感件、`Brand.tsx` 品牌件等，个别 import `demos/_textures/` 的真实页面纹理），

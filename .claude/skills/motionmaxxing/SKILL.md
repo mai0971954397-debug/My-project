@@ -148,7 +148,7 @@ python3 "$SKILL/scripts/look.py" film/final.mp4 --out film/look-final --expect <
 | `references/type.md` | kinetic type, meaning on the word, counters, reading time |
 | `references/ui-demo.md` | cursor, click, typing, toggles, agent work, phones; recipes are mechanics, not a default film |
 | `references/close.md` | CTA and logo endings, picked by brand personality |
-| `references/sound-sync.md` | script, ElevenLabs VO/SFX/music, cutting to the voice, mixing, fallbacks |
+| `references/sound-sync.md` | script, ElevenLabs VO/SFX/music, cutting to the voice, mixing, fallbacks; ready-made SFX: `../video-shotcraft/assets/audio/sfx/README.md` (names, hit points, when to use) |
 | `references/slop.md` | AI default vs pro decision table and the render review checklist |
 | `references/tools.md` | one page on every script and its flags |
 | `taste/verdicts.md`, `taste/edits.md` | this user's reactions; before/after lessons |
