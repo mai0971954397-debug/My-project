@@ -44,3 +44,9 @@ What this user has actually said about films made for them (2026-09-28 → 2026-
 
 ### Standing instruction for appending
 Date, film, quote, what they reacted to, narrowest lesson. Do not generalise beyond the film's context.
+
+## 2026-11 Attack Shark R82 HE (Thai TikTok, user-recorded VO)
+- VO scripts must be written IN RHYTHM: every line marked with where the voice pauses (short / long / silence before the hit), so the recording already carries the edit's beats. Do not hand over a flat paragraph.
+- Never chop a recorded VO into words to fit the picture: "ไม่มี" cut out of its sentence sounded like the power went off. Keep each take continuous and move the picture/type to the voice.
+- Before delivering, measure the audio of the delivered file itself (volumedetect + transcription); a silent VO once shipped because only the source clips were checked.
+- Show the whole product so its size reads; never crop/zoom to hide a source clip's overlays (the user's clips, overlays stay).
