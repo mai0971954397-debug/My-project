@@ -18,3 +18,13 @@ Six short UI/edit sound effects, 44.1 kHz mono WAV, peak -1 dBFS. Synthesized fr
 - Use 1–3 hero sounds per 20 s clip; do not stack a sound on every cut.
 - motionmaxxing: add to `events.json` → `{"t": <hit time - hit point>, "sfx": "<path>/charge-data-ui.wav", "gain": -6}` then `mix.py --events`.
 - Remotion (video-shotcraft template): copy into `public/audio/` and use `<Audio src={staticFile('audio/camera-flash.wav')} />` inside a `<Sequence from={frame}>`.
+
+## คู่ เอฟเฟกต์ภาพ + เสียง (จากคลิปตัวอย่างที่เจ้าของส่งมา "With This / Use This")
+หลัก: เสียงต้องเป็นชนิดเดียวกับการเคลื่อนไหวของภาพ และจุดดังที่สุดของเสียงตรงกับเฟรมที่เอฟเฟกต์แรงที่สุดพอดี (ในคลิปตัวอย่าง เสียงลงเฟรมเดียวกับภาพทุกครั้ง)
+
+| เอฟเฟกต์ภาพ (ชื่อใน CapCut) | ลักษณะภาพ | เสียงที่คู่กัน (ชื่อใน CapCut) | ในคลังนี้ใช้แทนได้ |
+|---|---|---|---|
+| Slide Left | ภาพสไลด์ข้างพร้อมเส้นเบลอแนวนอน | Deep woosh | `whoosh` (ลงเสียงต่ำ หางยาว) |
+| Glare | แสงขาวจ้าวาบบนตัวแบบ | Camera shutter "Kasha" | `camera-flash.wav` |
+| Brush Glitch | ภาพแตกเป็นแถบ glitch | Glitch sound logo match | ยังไม่มีในคลัง |
+| Shake & Flash | ภาพสั่นพร้อมแฟลชขาว | Camera flash sound | `camera-flash.wav` + impact |
