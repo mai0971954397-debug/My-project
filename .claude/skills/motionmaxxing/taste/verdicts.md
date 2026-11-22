@@ -51,3 +51,4 @@ Date, film, quote, what they reacted to, narrowest lesson. Do not generalise bey
 - Never chop a recorded VO into words to fit the picture: "ไม่มี" cut out of its sentence sounded like the power went off. Keep each take continuous and move the picture/type to the voice.
 - Before delivering, measure the audio of the delivered file itself (volumedetect + transcription); a silent VO once shipped because only the source clips were checked.
 - Show the whole product so its size reads; never crop/zoom to hide a source clip's overlays (the user's clips, overlays stay).
+- 2026-11-22 G304: the user found the independent final review had never been run. Rule: every film gets video-shotcraft stage 7 (clean-context subagent, final-review.md + aesthetic-rules.md, frame-numbered findings) before it is sent. No strobe/reel-flip montage unless asked. Use video-shotcraft shot cards (read card + demo TSX) for editing, not only its SFX folder.
