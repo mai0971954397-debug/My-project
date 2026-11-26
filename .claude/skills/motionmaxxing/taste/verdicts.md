@@ -52,3 +52,8 @@ Date, film, quote, what they reacted to, narrowest lesson. Do not generalise bey
 - Before delivering, measure the audio of the delivered file itself (volumedetect + transcription); a silent VO once shipped because only the source clips were checked.
 - Show the whole product so its size reads; never crop/zoom to hide a source clip's overlays (the user's clips, overlays stay).
 - 2026-11-22 G304: the user found the independent final review had never been run. Rule: every film gets video-shotcraft stage 7 (clean-context subagent, final-review.md + aesthetic-rules.md, frame-numbered findings) before it is sent. No strobe/reel-flip montage unless asked. Use video-shotcraft shot cards (read card + demo TSX) for editing, not only its SFX folder.
+
+## VGN Dragonfly SFX (pre-VO) — owner reactions
+- 11 overlapping SFX incl. 3 s Hook 1 + 3.7 s riser: "เสียงเยอะอุ้ยตุ้ย" (too busy).
+- Fix attempt that dropped hook + ending sounds and left the stem at -29 LUFS: "ห่วยแตก ... เสียงตอนฮุกหายไปไหน ตอนปิดก็หาย" — wrong: never remove the hook and ending sounds, never deliver an un-normalised quiet file.
+- Owner: library sounds (originals + pack) are all allowed; use them. Right answer: keep hook + ending sound, varied short sounds on picture events, deliver at -14 LUFS, and protect the later VO by ducking the SFX bed with mix.py --duck, not by making SFX inaudible now.
