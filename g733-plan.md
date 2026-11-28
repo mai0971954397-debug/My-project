@@ -51,7 +51,9 @@
 | ไฟ | LIGHTSYNC RGB ด้านหน้า 2 โซน 16.8 ล้านสี | |
 | คาดศีรษะ | แบบ suspension ปรับได้ | |
 | เสียงรอบทิศ | DTS Headphone:X 2.0 (ต้องใช้ G HUB) | |
-| ห้ามพูด | "เมมโมรีโฟม" (ไม่ยืนยันสำหรับรุ่นปกติ), Bluetooth (ไม่มี), "คุณภาพดีที่สุด" (คำโฆษณาครีเอเตอร์) | |
+| ฟองน้ำ | เมมโมรีโฟม 2 ชั้น (ยืนยันจากหน้าเว็บแล้ว: "Dual-layer memory foam") | |
+| ห้ามพูด | Bluetooth (ไม่มี), "คุณภาพดีที่สุด" (คำโฆษณาครีเอเตอร์) | |
+ข้อความต้นฉบับทุกสเปก: specs-g733.md |
 Sources: https://www.logitechg.com/en-us/shop/p/g733-rgb-wireless-headset · https://www.logitechg.com/en-in/products/gaming-audio/g733-rgb-wireless-headset.981-000867.html · https://www.logitechg.com/en-in/discover/learn/g522-lightspeed-vs-g733
 
 ## 4. แผนสกิล (เรียกจริงด้วย Skill tool ทุกตัว)
